@@ -1,0 +1,23 @@
+{
+  "name": "audiotovideoservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braymen/AudioToVideoService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braymen/AudioToVideoService/issues"
+  },
+  "homepage": "https://github.com/braymen/AudioToVideoService#readme",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "ffmpeg": "^0.0.4"
+  }
+}
